@@ -1,0 +1,21 @@
+{
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false,
+    "Lua.diagnostics.globals": [
+        "push",
+        "basicFont",
+        "scoreFont",
+        "p1Score",
+        "p2Score",
+        "p1Y",
+        "p2Y",
+        "ballDX",
+        "ballDY",
+        "ballX",
+        "ballY",
+        "gamestate"
+    ]
+}
