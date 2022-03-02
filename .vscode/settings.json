@@ -16,6 +16,16 @@
         "ballDY",
         "ballX",
         "ballY",
-        "gamestate"
+        "gamestate",
+        "class_commons",
+        "common",
+        "class",
+        "player1",
+        "player2",
+        "ball",
+        "displayFPS",
+        "fpsFong",
+        "fpsFont",
+        "servingPlayer"
     ]
 }
